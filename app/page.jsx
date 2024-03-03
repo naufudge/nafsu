@@ -58,16 +58,16 @@ export default function Home() {
       
       <div>
         <div className="main-desc">
-          <div>Welcome to Nafsu.</div>
+          <div>Welcome to <span className="text-[#674657]">Nafsu</span>.</div>
           <div
           className="main-btn"
           onClick={handleHelpBtn}
           >Find Help</div>
         </div>
-
+        
         {/* Form Component Below */}
         <dialog id="my_modal" className="modal">
-        <div className="modal-box bg-gradient-to-l from-[#D3ADBC] to-[#C794BE] text-sm py-6">
+        <div className="modal-box bg-gradient-to-bl from-[#D3ADBC] to-[#C794BE] text-sm py-6">
             {
               doctorView && <DoctorsView doctors={doctors} />
             }

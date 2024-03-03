@@ -5,8 +5,8 @@ import Card from './Card';
 const DoctorsView = ({doctors}) => {
     if (!doctors) return null;
     
-    const firstDoc = doctors[3]
-    const secondDoc = doctors[54]
+    const firstDoc = doctors[12]
+    const secondDoc = doctors[6]
     const thirdDoc = doctors[10]
 
     const router = useRouter()
@@ -23,7 +23,6 @@ const DoctorsView = ({doctors}) => {
         <div className='doctors-view mt-2'>
             <h3 className="doc-view-title font-bold text-lg mb-4">Recommended Doctors</h3>
             <div className='doctors-cards grid grid-cols-2 mb-5 gap-4 h-full'>
-
                 <Card doc={firstDoc} />
                 <Card doc={secondDoc} />
                 <Card doc={thirdDoc} />
