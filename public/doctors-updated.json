@@ -1,0 +1,901 @@
+[
+    {
+        "name": "Dr. Abdulla Ahusan",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "23 December 2018",
+        "designation": "Therapist",
+        "path": "Dr_Abdulla_Ahusan"
+    },
+    {
+        "name": "Dr. Abdulla Niyaf",
+        "department": "Old age psychiatry",
+        "joined": "9 August 2012",
+        "license": "PMR0055",
+        "designation": "Therapist",
+        "path": "Dr_Abdulla_Niyaf"
+    },
+    {
+        "name": "Dr. Adam Khaleel Yoosuf",
+        "department": "Child and adolescent psychiatry",
+        "joined": "14 December 2011",
+        "license": "PMR0138",
+        "designation": "Therapist",
+        "path": "Dr_Adam_Khaleel_Yoosuf"
+    },
+    {
+        "name": "Dr. Ahmed Nishan",
+        "department": "Forensic psychiatry",
+        "joined": "13 July 2016",
+        "license": "PMR0160",
+        "designation": "Therapist",
+        "path": "Dr_Ahmed_Nishan"
+    },
+    {
+        "name": "Dr. Ahmed Ziyan",
+        "department": "Child and adolescent psychiatry",
+        "joined": "1 March 2021",
+        "license": "PMR0075",
+        "designation": "Therapist",
+        "path": "Dr_Ahmed_Ziyan"
+    },
+    {
+        "name": "Ms Aishath Dhimna",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Therapist",
+        "path": "Ms_Aishath_Dhimna"
+    },
+    {
+        "name": "Dr. Aishath Ibna Adnan",
+        "department": "Neuropsychiatry",
+        "joined": "23 May 2021",
+        "license": "PMR0225",
+        "designation": "Therapist",
+        "path": "Dr_Aishath_Ibna_Adnan"
+    },
+    {
+        "name": "Dr. Aishath Jeneena Amir",
+        "department": "Neuropsychiatry",
+        "joined": "16 August 2020",
+        "license": "PMR0211",
+        "designation": "Therapist",
+        "path": "Dr_Aishath_Jeneena_Amir"
+    },
+    {
+        "name": "Dr. Aishath Thasneem Mohamed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "30 June 2019",
+        "designation": "Therapist",
+        "path": "Dr_Aishath_Thasneem_Mohamed"
+    },
+    {
+        "name": "Dr. Aishath Zaha",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "10 January 2024",
+        "license": "PROV MR 3002 B",
+        "path": "Dr_Aishath_Zaha"
+    },
+    {
+        "name": "Ms Aishath Zimna Hussain",
+        "department": "Speech Therapy",
+        "designation": "Therapist",
+        "path": "Ms_Aishath_Zimna_Hussain"
+    },
+    {
+        "name": "Dr. Ali Niyaf",
+        "department": "Consultation\u00e2\u20ac\u201cliaison psychiatry",
+        "joined": "14 October 2014",
+        "license": "PMR0149",
+        "designation": "Therapist",
+        "path": "Dr_Ali_Niyaf"
+    },
+    {
+        "name": "Dr. Amal Basnet",
+        "department": "Neuropsychiatry",
+        "joined": "9 November 2021",
+        "license": "TMR5128",
+        "designation": "Therapist",
+        "path": "Dr_Amal_Basnet"
+    },
+    {
+        "name": "Dr. Aminath Haifa",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "17 January 2022",
+        "designation": "Therapist",
+        "path": "Dr_Aminath_Haifa"
+    },
+    {
+        "name": "Dr. Aminath Hishma",
+        "department": "Addiction psychiatry",
+        "joined": "16 March 2019",
+        "license": "PMR0435",
+        "designation": "Therapist",
+        "path": "Dr_Aminath_Hishma"
+    },
+    {
+        "name": "Dr. Aminath Ifasha Gasim",
+        "department": "Orthopedics",
+        "joined": "4 February 2019",
+        "license": "PMR0175",
+        "designation": "Therapist",
+        "path": "Dr_Aminath_Ifasha_Gasim"
+    },
+    {
+        "name": "Dr. Aminath Rifla",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "28 January 2023",
+        "designation": "Therapist",
+        "path": "Dr_Aminath_Rifla"
+    },
+    {
+        "name": "Dr. Aminath Sausan",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "license": "MR2459B",
+        "designation": "Therapist",
+        "path": "Dr_Aminath_Sausan"
+    },
+    {
+        "name": "Dr. Amjad Hussain",
+        "department": "Psychiatry",
+        "joined": "30 November 2023",
+        "license": "TMR6059",
+        "designation": "Therapist",
+        "path": "Dr_Amjad_Hussain"
+    },
+    {
+        "name": "Mr Anil Rimal",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Therapist",
+        "path": "Mr_Anil_Rimal"
+    },
+    {
+        "name": "Dr. Anisha Basnet",
+        "department": "Adult psychiatry",
+        "joined": "18 November 2023",
+        "license": "TMR6029",
+        "designation": "Therapist",
+        "path": "Dr_Anisha_Basnet"
+    },
+    {
+        "name": "Dr. Anjana K C",
+        "department": "Old age psychiatry",
+        "joined": "9 November 2021",
+        "license": "TMR5127",
+        "designation": "Therapist",
+        "path": "Dr_Anjana_K_C"
+    },
+    {
+        "name": "Dr. Anupama Bhattarai",
+        "department": "Neuropsychiatry",
+        "joined": "26 June 2022",
+        "license": "TMR5379",
+        "designation": "Therapist",
+        "path": "Dr_Anupama_Bhattarai"
+    },
+    {
+        "name": "Dr. Apil Dev Neupane",
+        "department": "Child and adolescent psychiatry",
+        "joined": "19 November 2016",
+        "license": "TMR3640",
+        "designation": "Therapist",
+        "path": "Dr_Apil_Dev_Neupane"
+    },
+    {
+        "name": "Dr. Arusha Ali Rasheed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "9 August 2018",
+        "license": "PMR0417",
+        "designation": "Therapist",
+        "path": "Dr_Arusha_Ali_Rasheed"
+    },
+    {
+        "name": "Dr. Ashish Kailashchandra Nema",
+        "department": "Adult psychiatry",
+        "joined": "14 January 2020",
+        "license": "TMR4643",
+        "designation": "Therapist",
+        "path": "Dr_Ashish_Kailashchandra_Nema"
+    },
+    {
+        "name": "Dr. Azam Farish",
+        "department": "Old age psychiatry",
+        "joined": "4 June 2022",
+        "license": "PMR0272",
+        "designation": "Therapist",
+        "path": "Dr_Azam_Farish"
+    },
+    {
+        "name": "Dr. Bhumika Pradhan",
+        "department": "Consultation-liaison psychiatry",
+        "path": "Dr_Bhumika_Pradhan"
+    },
+    {
+        "name": "Dr. Binod Gautam",
+        "department": "Adult psychiatry",
+        "license": "TMR5232",
+        "designation": "Therapist",
+        "path": "Dr_Binod_Gautam"
+    },
+    {
+        "name": "Dr. Birbal Mahato",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "15 January 2024",
+        "license": "PROV MR 3036 B",
+        "path": "Dr_Birbal_Mahato"
+    },
+    {
+        "name": "Dr. Budhi Nath Adhikari Sudhin",
+        "department": "Reconstructive, Regenerative and Aesthetic Surgery",
+        "joined": "1 June 2022",
+        "license": "TMR5341",
+        "designation": "Therapist",
+        "path": "Dr_Budhi_Nath_Adhikari_Sudhin"
+    },
+    {
+        "name": "Dr. Damodar Pant",
+        "department": "Forensic psychiatry",
+        "joined": "29 June 2022",
+        "license": "TMR3651",
+        "designation": "Therapist",
+        "path": "Dr_Damodar_Pant"
+    },
+    {
+        "name": "Dr. Debashis Das",
+        "department": "Adult psychiatry",
+        "license": "TMR5038",
+        "designation": "Therapist",
+        "path": "Dr_Debashis_Das"
+    },
+    {
+        "name": "Dr. Dharmesh R Bhatti",
+        "department": "Neuropsychiatry",
+        "joined": "26 June 2010",
+        "license": "TMR0122",
+        "designation": "Therapist",
+        "path": "Dr_Dharmesh_R_Bhatti"
+    },
+    {
+        "name": "Ms Dikshaya Yadav",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Therapist",
+        "path": "Ms_Dikshaya_Yadav"
+    },
+    {
+        "name": "Dr. Dipesh Karki",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "20 December 2022",
+        "designation": "Therapist",
+        "path": "Dr_Dipesh_Karki"
+    },
+    {
+        "name": "Dr. Diwas Dhungana",
+        "department": "Old age psychiatry",
+        "joined": "4 December 2023",
+        "license": "TMR4752",
+        "designation": "Therapist",
+        "path": "Dr_Diwas_Dhungana"
+    },
+    {
+        "name": "Dr. Dusooma Abdul Razzag",
+        "department": "Adult psychiatry",
+        "license": "PMR0161",
+        "designation": "Therapist",
+        "path": "Dr_Dusooma_Abdul_Razzag"
+    },
+    {
+        "name": "Dr. Fathimath Leeshiya Ahmed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "designation": "Therapist",
+        "path": "Dr_Fathimath_Leeshiya_Ahmed"
+    },
+    {
+        "name": "Dr. Fathimath Nasiha",
+        "department": "Old age psychiatry",
+        "joined": "14 June 2021",
+        "license": "PMR0301",
+        "designation": "Therapist",
+        "path": "Dr_Fathimath_Nasiha"
+    },
+    {
+        "name": "Dr. Fathimath Saazleen",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "27 August 2023",
+        "designation": "Therapist",
+        "path": "Dr_Fathimath_Saazleen"
+    },
+    {
+        "name": "Dr. Fathimath Zuwaida",
+        "department": "Forensic psychiatry",
+        "joined": "6 February 2022",
+        "license": "PMR0152",
+        "designation": "Therapist",
+        "path": "Dr_Fathimath_Zuwaida"
+    },
+    {
+        "name": "Dr. Fathmath Asra Saeed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "17 August 2022",
+        "designation": "Therapist",
+        "path": "Dr_Fathmath_Asra_Saeed"
+    },
+    {
+        "name": "Dr. Fathmath Faiha Faiz",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "26 March 2019",
+        "license": "MR1111",
+        "designation": "Therapist",
+        "path": "Dr_Fathmath_Faiha_Faiz"
+    },
+    {
+        "name": "Dr. Fathmath Reesha Azeem",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "17 January 2022",
+        "designation": "Therapist",
+        "path": "Dr_Fathmath_Reesha_Azeem"
+    },
+    {
+        "name": "Dr. Fathmath Shifna",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "29 May 2021",
+        "designation": "Therapist",
+        "path": "Dr_Fathmath_Shifna"
+    },
+    {
+        "name": "Dr. Fathmath Shudhfa Ibrahim",
+        "department": "Old age psychiatry",
+        "joined": "20 October 2021",
+        "license": "PMR0330",
+        "designation": "Therapist",
+        "path": "Dr_Fathmath_Shudhfa_Ibrahim"
+    },
+    {
+        "name": "Dr. Fathmath Zail Azmeel",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "1 February 2024",
+        "license": "PROV MR 3021 B",
+        "path": "Dr_Fathmath_Zail_Azmeel"
+    },
+    {
+        "name": "Dr. Firdhaus Rasheed",
+        "department": "Addiction psychiatry",
+        "joined": "25 June 2013",
+        "license": "PMR0279",
+        "designation": "Therapist",
+        "path": "Dr_Firdhaus_Rasheed"
+    },
+    {
+        "name": "Mr Githin George",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Therapist",
+        "path": "Mr_Githin_George"
+    },
+    {
+        "name": "Dr. Hanan Shameem Ibrahim",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "22 December 2020",
+        "license": "PMR0548",
+        "designation": "Therapist",
+        "path": "Dr_Hanan_Shameem_Ibrahim"
+    },
+    {
+        "name": "Dr. Hawwa Sana",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "26 April 2021",
+        "license": "PMR0619",
+        "designation": "Therapist",
+        "path": "Dr_Hawwa_Sana"
+    },
+    {
+        "name": "Dr. Hishama Abdulla",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "15 September 2021",
+        "designation": "Therapist",
+        "path": "Dr_Hishama_Abdulla"
+    },
+    {
+        "name": "Dr. Hussain Mohamed Fulhu",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "license": "PMR0501",
+        "designation": "Therapist",
+        "path": "Dr_Hussain_Mohamed_Fulhu"
+    },
+    {
+        "name": "Dr. Hussain Shakeel",
+        "department": "Orthopedics",
+        "joined": "1 November 2014",
+        "license": "PMR0071",
+        "designation": "Therapist",
+        "path": "Dr_Hussain_Shakeel"
+    },
+    {
+        "name": "Mr Ibrahim Irufaan",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Therapist",
+        "path": "Mr_Ibrahim_Irufaan"
+    },
+    {
+        "name": "Dr. Ismail Ejaz Ali",
+        "department": "Old age psychiatry",
+        "joined": "2 June 2022",
+        "license": "PMR0372",
+        "designation": "Therapist",
+        "path": "Dr_Ismail_Ejaz_Ali"
+    },
+    {
+        "name": "Dr. Ismail Zaeem Zahid",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "17 August 2022",
+        "designation": "Therapist",
+        "path": "Dr_Ismail_Zaeem_Zahid"
+    },
+    {
+        "name": "Dr. Jagdish Lamsal",
+        "department": "Consultation\u00e2\u20ac\u201cliaison psychiatry",
+        "joined": "22 July 2023",
+        "license": "TMR5924",
+        "designation": "Therapist",
+        "path": "Dr_Jagdish_Lamsal"
+    },
+    {
+        "name": "Dr. Jahangir Ahmed Sheikh",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "26 December 2023",
+        "license": "TMR5575",
+        "designation": "Therapist",
+        "path": "Dr_Jahangir_Ahmed_Sheikh"
+    },
+    {
+        "name": "Dr. Jeehan Ahmed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "license": "MR1652",
+        "designation": "Therapist",
+        "path": "Dr_Jeehan_Ahmed"
+    },
+    {
+        "name": "Dr. Kamal Raj Soti",
+        "department": "Neuropsychiatry",
+        "joined": "13 April 2019",
+        "license": "TMR4299",
+        "designation": "Therapist",
+        "path": "Dr_Kamal_Raj_Soti"
+    },
+    {
+        "name": "Dr. Kiran Niraula",
+        "department": "Consultation\u00e2\u20ac\u201cliaison psychiatry",
+        "joined": "27 April 2019",
+        "path": "Dr_Kiran_Niraula"
+    },
+    {
+        "name": "Dr. Leena Saleem",
+        "department": "Neuropsychiatry",
+        "joined": "23 May 2021",
+        "license": "PMR0299",
+        "designation": "Therapist",
+        "path": "Dr_Leena_Saleem"
+    },
+    {
+        "name": "Ms Lubana Shah",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Therapist",
+        "path": "Ms_Lubana_Shah"
+    },
+    {
+        "name": "Dr. Mahaa Waheed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "6 December 2020",
+        "designation": "Therapist",
+        "path": "Dr_Mahaa_Waheed"
+    },
+    {
+        "name": "Dr. Malathi Bhaskar",
+        "department": "Adult psychiatry",
+        "license": "TMR5878",
+        "designation": "Therapist",
+        "path": "Dr_Malathi_Bhaskar"
+    },
+    {
+        "name": "Dr. Manimegalai Subramaniyam",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "11 January 2024",
+        "license": "PROV MR 2983 B",
+        "path": "Dr_Manimegalai_Subramaniyam"
+    },
+    {
+        "name": "Dr. Mariyam Areesha",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "15 September 2021",
+        "designation": "Therapist",
+        "path": "Dr_Mariyam_Areesha"
+    },
+    {
+        "name": "Dr. Mariyam Balshoon Mohamed Shah",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "20 October 2020",
+        "designation": "Therapist",
+        "path": "Dr_Mariyam_Balshoon_Mohamed_Shah"
+    },
+    {
+        "name": "Ms Mariyam Najla",
+        "department": "Neuropsychiatry",
+        "joined": "16 July 2011",
+        "designation": "Therapist",
+        "path": "Ms_Mariyam_Najla"
+    },
+    {
+        "name": "Dr. Mariyam Shafa Rameez",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "14 November 2023",
+        "designation": "Therapist",
+        "path": "Dr_Mariyam_Shafa_Rameez"
+    },
+    {
+        "name": "Dr. Mauroof Wisam",
+        "department": "Forensic psychiatry",
+        "joined": "22 June 2019",
+        "license": "PMR0486",
+        "designation": "Therapist",
+        "path": "Dr_Mauroof_Wisam"
+    },
+    {
+        "name": "Dr. Mauroofa Abdul Latheef",
+        "department": "Addiction psychiatry",
+        "license": "PMR0509",
+        "designation": "Therapist",
+        "path": "Dr_Mauroofa_Abdul_Latheef"
+    },
+    {
+        "name": "Dr. Moataz Ayman Saleh Abdelaziz",
+        "department": "Child and adolescent psychiatry",
+        "joined": "16 August 2023",
+        "license": "TMR5959",
+        "designation": "Therapist",
+        "path": "Dr_Moataz_Ayman_Saleh_Abdelaziz"
+    },
+    {
+        "name": "Dr. Mohamed Elshaarawi Mohamed Youssif",
+        "department": "Adult psychiatry",
+        "joined": "16 December 2023",
+        "license": "TMR5136",
+        "designation": "Therapist",
+        "path": "Dr_Mohamed_Elshaarawi_Mohamed_Youssif"
+    },
+    {
+        "name": "Dr. Mohamed Fariu Moosa",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "27 September 2017",
+        "license": "PMR0446",
+        "designation": "Therapist",
+        "path": "Dr_Mohamed_Fariu_Moosa"
+    },
+    {
+        "name": "Dr. Mohamed Hisan Hayyu",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "12 November 2023",
+        "designation": "Therapist",
+        "path": "Dr_Mohamed_Hisan_Hayyu"
+    },
+    {
+        "name": "Dr. Mohamed Mishwaar Ashfaq",
+        "department": "Orthopedics",
+        "joined": "1 August 2017",
+        "license": "PMR0226",
+        "designation": "Therapist",
+        "path": "Dr_Mohamed_Mishwaar_Ashfaq"
+    },
+    {
+        "name": "Dr. Mohamed Shaffaf Ismail",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "25 August 2018",
+        "designation": "Therapist",
+        "path": "Dr_Mohamed_Shaffaf_Ismail"
+    },
+    {
+        "name": "Dr. Mohamed Shafiu",
+        "department": "Child and adolescent psychiatry",
+        "joined": "7 November 2017",
+        "license": "PMR011",
+        "designation": "Therapist",
+        "path": "Dr_Mohamed_Shafiu"
+    },
+    {
+        "name": "Dr. Mohamed Shafraz",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "31 October 2023",
+        "license": "PMR0814",
+        "designation": "Therapist",
+        "path": "Dr_Mohamed_Shafraz"
+    },
+    {
+        "name": "Dr. Mukesh Prasad Sah",
+        "department": "Child and adolescent psychiatry",
+        "joined": "10 January 2022",
+        "license": "TMR5166",
+        "designation": "Therapist",
+        "path": "Dr_Mukesh_Prasad_Sah"
+    },
+    {
+        "name": "Dr. Murari Prasad Barakoti",
+        "department": "Adult psychiatry",
+        "joined": "22 June 2019",
+        "designation": "Therapist",
+        "path": "Dr_Murari_Prasad_Barakoti"
+    },
+    {
+        "name": "Dr. Nader Abdul Razak",
+        "department": "Pulmonary and Respiratory Medicine",
+        "joined": "3 January 2023",
+        "license": "TMR5649",
+        "designation": "Therapist",
+        "path": "Dr_Nader_Abdul_Razak"
+    },
+    {
+        "name": "Dr. Nafha Abdulla",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "25 January 2022",
+        "designation": "Therapist",
+        "path": "Dr_Nafha_Abdulla"
+    },
+    {
+        "name": "Dr. Najahath Ahmed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "25 January 2022",
+        "license": "PMR0660",
+        "designation": "Therapist",
+        "path": "Dr_Najahath_Ahmed"
+    },
+    {
+        "name": "Dr. Nuzha Mohamed",
+        "department": "Addiction psychiatry",
+        "license": "PMR0067",
+        "designation": "Therapist",
+        "path": "Dr_Nuzha_Mohamed"
+    },
+    {
+        "name": "Dr. Prabhaw Upadhyaya",
+        "department": "Child and adolescent psychiatry",
+        "license": "TMR5449",
+        "designation": "Therapist",
+        "path": "Dr_Prabhaw_Upadhyaya"
+    },
+    {
+        "name": "Dr. Pradip Kumar Paudel",
+        "department": "Old age psychiatry",
+        "joined": "1 March 2023",
+        "designation": "Therapist",
+        "path": "Dr_Pradip_Kumar_Paudel"
+    },
+    {
+        "name": "Dr. Prashanna Acharya",
+        "department": "Child and adolescent psychiatry",
+        "joined": "29 October 2018",
+        "license": "TMR4017",
+        "designation": "Therapist",
+        "path": "Dr_Prashanna_Acharya"
+    },
+    {
+        "name": "Dr. Praveen Jeya Chidambara Pandian",
+        "department": "Addiction psychiatry",
+        "joined": "26 April 2012",
+        "designation": "Therapist",
+        "path": "Dr_Praveen_Jeya_Chidambara_Pandian"
+    },
+    {
+        "name": "Dr. Prem Raj Sigdel",
+        "department": "Forensic psychiatry",
+        "joined": "12 July 2023",
+        "license": "TMR5924",
+        "designation": "Therapist",
+        "path": "Dr_Prem_Raj_Sigdel"
+    },
+    {
+        "name": "Dr. Pushpa Bhatta",
+        "department": "Neuropsychiatry",
+        "joined": "29 October 2018",
+        "license": "TMR4018",
+        "designation": "Therapist",
+        "path": "Dr_Pushpa_Bhatta"
+    },
+    {
+        "name": "Dr. Quraisha Haneef",
+        "department": "Child and adolescent psychiatry",
+        "license": "PMR0310",
+        "designation": "Therapist",
+        "path": "Dr_Quraisha_Haneef"
+    },
+    {
+        "name": "Dr. Robin Bhattarai",
+        "department": "Consultation\u00e2\u20ac\u201cliaison psychiatry",
+        "joined": "14 March 2022",
+        "license": "5250",
+        "designation": "Therapist",
+        "path": "Dr_Robin_Bhattarai"
+    },
+    {
+        "name": "Dr. Roshani Wagle",
+        "department": "Addiction psychiatry",
+        "joined": "22 December 2018",
+        "license": "TMR4233",
+        "designation": "Therapist",
+        "path": "Dr_Roshani_Wagle"
+    },
+    {
+        "name": "Dr. Sajad Ahmad Malik",
+        "department": "Child and adolescent psychiatry",
+        "license": "TMR3881",
+        "designation": "Therapist",
+        "path": "Dr_Sajad_Ahmad_Malik"
+    },
+    {
+        "name": "Dr. Sana Majdhee",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "15 May 2021",
+        "designation": "Therapist",
+        "path": "Dr_Sana_Majdhee"
+    },
+    {
+        "name": "Dr. Sasi Seerappan",
+        "department": "Neuropsychiatry",
+        "joined": "14 September 2014",
+        "license": "TMR3127",
+        "designation": "Therapist",
+        "path": "Dr_Sasi_Seerappan"
+    },
+    {
+        "name": "Dr. Sasikumar Atthipalayam Chellamuthu",
+        "department": "Consultation\u00e2\u20ac\u201cliaison psychiatry",
+        "joined": "11 August 2014",
+        "license": "TMR3144",
+        "designation": "Therapist",
+        "path": "Dr_Sasikumar_Atthipalayam_Chellamuthu"
+    },
+    {
+        "name": "Dr. Saudhath Ibrahim",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "17 August 2022",
+        "designation": "Therapist",
+        "path": "Dr_Saudhath_Ibrahim"
+    },
+    {
+        "name": "Dr. Seema Umar",
+        "department": "Consultation\u00e2\u20ac\u201cliaison psychiatry",
+        "joined": "26 January 2022",
+        "license": "PMR0270",
+        "designation": "Therapist",
+        "path": "Dr_Seema_Umar"
+    },
+    {
+        "name": "Dr. Shafraz Mohamed Shaheid",
+        "department": "Orthopedics",
+        "joined": "3 October 2018",
+        "license": "TMR4164",
+        "designation": "Therapist",
+        "path": "Dr_Shafraz_Mohamed_Shaheid"
+    },
+    {
+        "name": "Dr. Shaheela Mohamed Naseer",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "4 June 2023",
+        "designation": "Therapist",
+        "path": "Dr_Shaheela_Mohamed_Naseer"
+    },
+    {
+        "name": "Dr. Shahid Latif",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "11 January 2024",
+        "license": "PROV MR 3034 B",
+        "path": "Dr_Shahid_Latif"
+    },
+    {
+        "name": "Dr. Shahula Afeef",
+        "department": "Old age psychiatry",
+        "joined": "19 March 2017",
+        "license": "PMR0126",
+        "designation": "Therapist",
+        "path": "Dr_Shahula_Afeef"
+    },
+    {
+        "name": "Dr. Shanti Jaishi",
+        "department": "Neuropsychiatry",
+        "joined": "12 December 2021",
+        "license": "TMR4887",
+        "designation": "Therapist",
+        "path": "Dr_Shanti_Jaishi"
+    },
+    {
+        "name": "Dr. Shaufa Ahmed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "25 January 2022",
+        "designation": "Therapist",
+        "path": "Dr_Shaufa_Ahmed"
+    },
+    {
+        "name": "Dr. Sheeneez Shareef",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "2 February 2022",
+        "designation": "Therapist",
+        "path": "Dr_Sheeneez_Shareef"
+    },
+    {
+        "name": "Dr. Shivir Sharma Dahal",
+        "department": "Child and adolescent psychiatry",
+        "joined": "9 February 2023",
+        "designation": "Therapist",
+        "path": "Dr_Shivir_Sharma_Dahal"
+    },
+    {
+        "name": "Dr. Shiyara Ibrahim",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "28 January 2023",
+        "designation": "Therapist",
+        "path": "Dr_Shiyara_Ibrahim"
+    },
+    {
+        "name": "Dr. Shoaib Ahmed",
+        "department": "Consultation\u00e2\u20ac\u201cliaison psychiatry",
+        "joined": "3 February 2024",
+        "license": "TMR6121",
+        "designation": "Therapist",
+        "path": "Dr_Shoaib_Ahmed"
+    },
+    {
+        "name": "Dr. Soodh Antony",
+        "department": "Addiction psychiatry",
+        "joined": "4 November 2002",
+        "license": "TMR0411",
+        "designation": "Therapist",
+        "path": "Dr_Soodh_Antony"
+    },
+    {
+        "name": "Dr. Syed Farhan Ali",
+        "department": "Addiction psychiatry",
+        "joined": "17 November 2012",
+        "path": "Dr_Syed_Farhan_Ali"
+    },
+    {
+        "name": "Mr Tharig Majeedh",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Therapist",
+        "path": "Mr_Tharig_Majeedh"
+    },
+    {
+        "name": "Dr. Thulapitiyage Nishara Priyanji Weerasinghe",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "8 May 2023",
+        "designation": "Therapist",
+        "path": "Dr_Thulapitiyage_Nishara_Priyanji_Weerasinghe"
+    },
+    {
+        "name": "Dr. Ubaidullah Hamoodh Rasheed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "17 August 2022",
+        "designation": "Therapist",
+        "path": "Dr_Ubaidullah_Hamoodh_Rasheed"
+    },
+    {
+        "name": "Dr. Ummu Kulsoom Mohamed",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "13 May 2023",
+        "designation": "Therapist",
+        "path": "Dr_Ummu_Kulsoom_Mohamed"
+    },
+    {
+        "name": "Dr. Zaaib Ibrahim Azim",
+        "department": "Psychiatry of intellectual and developmental disabilities",
+        "joined": "28 January 2023",
+        "designation": "Therapist",
+        "path": "Dr_Zaaib_Ibrahim_Azim"
+    },
+    {
+        "name": "Dr. Zahiya Abdul Baree",
+        "department": "Neuropsychiatry",
+        "license": "PMR0303",
+        "designation": "Therapist",
+        "path": "Dr_Zahiya_Abdul_Baree"
+    },
+    {
+        "name": "Dr. Zahiya Abdul Baree",
+        "department": "Neuropsychiatry",
+        "license": "PMR0303",
+        "designation": "Therapist",
+        "path": "Dr_Zahiya_Abdul_Baree"
+    }
+]

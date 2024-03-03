@@ -2,32 +2,138 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* 
+Colors:
+#161010
+#674657
+#B77B9E
+#C794BE
+#D3ADBC
+#E5C4BA
+#FDE8C6
+*/
+
+.nav-link {
+  @apply m-auto hover:cursor-pointer
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+.main-btn {
+  @apply btn border-none rounded-lg py-2 mt-5 bg-[#B77B9E] text-[#161010] drop-shadow-md hover:cursor-pointer hover:scale-110 hover:bg-[#674657] transition-all
+}
+
+input.form-field {
+  @apply input input-bordered border-2 border-[#674657] focus:border-[#674657] bg-transparent placeholder:text-white placeholder:opacity-50 placeholder:text-sm
+}
+
+
+* { 
+  font-family: "Poppins";
+  color: #161010;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+main {
+  background: radial-gradient(#FDE8C6, #D3ADBC);
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+div.main-desc {
+  position: relative;
+  height: 90vh; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-50px)
+  }
+  100% {
+    opacity: 1;
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+div.main-desc :nth-child(1) {
+  font-weight: 600;
+  font-size: 3em;
+  animation: fadeIn 2s ease;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+div.main-desc :nth-child(2) {
+  animation: fadeIn 1s ease;
+}
+
+div.popup-bg {
+  position: absolute;
+  display: flex;
+  height: 100vh;
+}
+
+dialog.modal ::-webkit-scrollbar {
+  background: transparent;
+  border-radius: 100%;
+}
+
+dialog.modal ::-webkit-scrollbar-button {
+  background: none;
+  /* border-radius: 10px; */
+}
+
+dialog.modal ::-webkit-scrollbar-corner {
+  border-radius: 20px;
+}
+
+/* div.modal-box {
+  -webkit-text-fill-color: #fffaf1;
+
+} */
+
+div.about-main {
+  position: relative;
+  height: 85vh; 
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  transition: all;
+}
+
+div.about-main h1 {
+  font-weight: 600;
+  font-size: 3em;
+  animation: fadeIn 2s ease;
+}
+
+div.about-main :nth-child(2) {
+  animation: fadeIn 2s ease;
+}
+
+.drop-down {
+  @apply w-full btn bg-transparent text-left
+}
+
+div.doctors-view {
+  animation: fadeIn 1s ease;
+}
+
+.doctors-cards div:nth-child(1) {
+  animation-delay: 0s;
+}
+.doctors-cards div:nth-child(2) {
+  animation-delay: 1.5s;
+}
+.doctors-cards div:nth-child(3) {
+  animation-delay: 3s;
 }
