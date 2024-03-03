@@ -1,10 +1,32 @@
 [
     {
+        "name": "Ms Aishath Zimna Hussain",
+        "department": "Speech Therapy",
+        "designation": "Therapist",
+        "path": "Ms_Aishath_Zimna_Hussain"
+    },
+    {
+        "name": "Dr. Aishath Jeneena Amir",
+        "department": "Neuropsychiatry",
+        "joined": "16 August 2020",
+        "license": "PMR0211",
+        "designation": "Therapist",
+        "path": "Dr_Aishath_Jeneena_Amir"
+    },
+    {
         "name": "Dr. Abdulla Ahusan",
         "department": "Psychiatry of intellectual and developmental disabilities",
         "joined": "23 December 2018",
         "designation": "Therapist",
         "path": "Dr_Abdulla_Ahusan"
+    },
+    {
+        "name": "Dr. Amjad Hussain",
+        "department": "Psychiatry",
+        "joined": "30 November 2023",
+        "license": "TMR6059",
+        "designation": "Therapist",
+        "path": "Dr_Amjad_Hussain"
     },
     {
         "name": "Dr. Abdulla Niyaf",
@@ -53,14 +75,6 @@
         "path": "Dr_Aishath_Ibna_Adnan"
     },
     {
-        "name": "Dr. Aishath Jeneena Amir",
-        "department": "Neuropsychiatry",
-        "joined": "16 August 2020",
-        "license": "PMR0211",
-        "designation": "Therapist",
-        "path": "Dr_Aishath_Jeneena_Amir"
-    },
-    {
         "name": "Dr. Aishath Thasneem Mohamed",
         "department": "Psychiatry of intellectual and developmental disabilities",
         "joined": "30 June 2019",
@@ -73,12 +87,6 @@
         "joined": "10 January 2024",
         "license": "PROV MR 3002 B",
         "path": "Dr_Aishath_Zaha"
-    },
-    {
-        "name": "Ms Aishath Zimna Hussain",
-        "department": "Speech Therapy",
-        "designation": "Therapist",
-        "path": "Ms_Aishath_Zimna_Hussain"
     },
     {
         "name": "Dr. Ali Niyaf",
@@ -132,14 +140,6 @@
         "license": "MR2459B",
         "designation": "Therapist",
         "path": "Dr_Aminath_Sausan"
-    },
-    {
-        "name": "Dr. Amjad Hussain",
-        "department": "Psychiatry",
-        "joined": "30 November 2023",
-        "license": "TMR6059",
-        "designation": "Therapist",
-        "path": "Dr_Amjad_Hussain"
     },
     {
         "name": "Mr Anil Rimal",

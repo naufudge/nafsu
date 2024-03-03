@@ -28,8 +28,6 @@ export default function RootLayout({ children }) {
           <h1 className="text-2xl font-bold">Nafsu</h1>
           <div className="text-sm flex gap-10 text-center">
             <Link className="nav-link" href={"/"}>Home</Link>
-            {/* <span className="nav-link">Doctors</span> */}
-            {/* <span className="nav-link">About Us</span> */}
             <Link className="nav-link" href={"/about"}>About Us</Link>
           </div>
         </div>
